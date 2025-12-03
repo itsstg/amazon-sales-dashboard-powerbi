@@ -22,4 +22,10 @@ It provides insights into total sales, profit margins, return status, and catego
 
 ---
 
+
+![Dashboard Preview](dashboard_preview.png)
+
+This Power BI project analyzes Amazon’s e-commerce sales performance using publicly available data.  
+It provides insights into total sales, profit margins, return status, and category-wise performance.
+
 ⭐ *This project was created as part of my learning journey into Data Analytics and Power BI.*
